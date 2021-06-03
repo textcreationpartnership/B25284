@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Jesuites lamentation for the discovery of their two late plots of the apprentices and the Irish massacre</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25284</idno><idno type="EEBO-CITATION">31355341</idno>
+  <idno type="VID">173690</idno>
+  <idno type="EEBO-PROQUEST">2240871746</idno>
+  
+            <idno type="STC">Wing J719</idno>
+            <idno type="STC">ESTC R41432</idno>
+            <idno type="OCLC">31355341</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25284)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173690)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1741:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Jesuites lamentation for the discovery of their two late plots of the apprentices and the Irish massacre</title>
+               </titleStmt>
+               <extent>1 sheet (4 [i.e 2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Second page numbered: 4.</note>
+                  <note>Date and place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Jesuits --  Controversial literature.</term>
+               <term type="topical_term">Popish Plot, 1678.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:173690:1"/>
+            <head>THE <hi>Iesuites Lamentation,</hi> FOR THE DISCOVERY Of their two late PLOTS, OF THE APPRENTICES AND THE Irish Massacre.</head>
+            <lg>
+               <l>Alas! what <hi>Trust</hi> in <hi>Devil,</hi> or in <hi>Pope!</hi>
+               </l>
+               <l>Sandy <hi>Foundations, both</hi> betray our <hi>Hope.</hi>
+               </l>
+               <l>How oft the <hi>first</hi> has promised us to quell,</l>
+               <l>The <hi>English Hereticks,</hi> with force from <hi>Hell?</hi>
+               </l>
+               <l>Yet still we'ave seen <hi>him</hi> baffl'd, made a Fool,</l>
+               <l>And all his <hi>Plots</hi> turn'd into Ridicule.</l>
+               <l>I doubt he never will be <hi>trusted</hi> more,</l>
+               <l>But by some ugly <hi>Witch,</hi> or pocky <hi>Whore,</hi>
+               </l>
+               <l>And for a silly <hi>Cully</hi> now must pass,</l>
+               <l>Since <hi>Luxemburg</hi> has prov'd him such an Ass.</l>
+               <l>And very little signifies, we see</l>
+               <l>The <hi>Popes</hi> admired <hi>Infallibility:</hi>
+               </l>
+               <l>How oft as he assur'd us we should thrive,</l>
+               <l>And <hi>Hereticks</hi> like <hi>Chaff,</hi> before us drive?</l>
+               <l>
+                  <hi>Ʋs</hi> and our great <hi>Designs</hi> how oft hath blest?</l>
+               <l>And with delusive <hi>Hopes</hi> has us possest;</l>
+               <l>Yet though the <hi>Pope</hi> and <hi>Devil</hi> both agree,</l>
+               <l>Trusting the one's <hi>Infallibility,</hi>
+               </l>
+               <l>And much confideing in the other's <hi>Power,</hi>
+               </l>
+               <l>Our <hi>Friends</hi> are still lock'd up within the <hi>Tower,</hi>
+               </l>
+               <l>And to our Cost in spite of <hi>Hell</hi> and <hi>Pope,</hi>
+               </l>
+               <l>Some of us have been nooz'd with <hi>fatal Rope.</hi>
+               </l>
+               <l>Like a <hi>Collossus</hi> strutting we did stand,</l>
+               <l>With Footting firm, and fixt in either Land,</l>
+               <l>And strid from <hi>London,</hi> to the <hi>Irish Strand.</hi>
+               </l>
+               <l>Assured now, to make our <hi>Power</hi> known,</l>
+               <l>And two great Kingdoms to have overthrown:</l>
+               <l>By new made Plots, fine <hi>Trains,</hi> and deep <hi>Designs,</hi>
+               </l>
+               <l>When we were just about to <hi>spring</hi> our <hi>Mines,</hi>
+               </l>
+               <l>Great <hi>Brittains</hi> watchful <hi>Genius</hi> step'd between,</l>
+               <l>Who stood as <hi>Guardian</hi> of the Land unseen,</l>
+               <l>In spite of <hi>Devil, Pope,</hi> and all our Skill,</l>
+               <l>Upon our wretched <hi>Heads</hi> has turn'd the Ill.</l>
+               <pb n="4" facs="tcp:173690:2"/>
+               <l>Has cut our strong and fine spun thrid in twain,</l>
+               <l>And once more rendred our <hi>Attempts</hi> in Vain.</l>
+               <l>Since <hi>Hell</hi> nor <hi>Pope</hi> can't help us at dead lift,</l>
+               <l>And that we'ave almost now try'd every <hi>shift,</hi>
+               </l>
+               <l>With diligence, with hazard, and with Care,</l>
+               <l>We now may hang our selves through sad dispair</l>
+               <l>Our <hi>Cause</hi> is fallen, spite of <hi>Hell</hi> and <hi>Pope,</hi>
+               </l>
+               <l>We hop'd a <hi>Crown,</hi> but we have caught a <hi>Rope.</hi>
+               </l>
+               <l>What shall we do, now <hi>Hell</hi> and <hi>Pope</hi> do fail,</l>
+               <l>Must we like Cowards on the <hi>Cause</hi> turn tail?</l>
+               <l>Like beaten <hi>Soldiers</hi> out of Breath retire,</l>
+               <l>And leave our mighty <hi>Hopes</hi> bogg▪d in the Mire?</l>
+               <l>O no, we are not such poor spirited <hi>Elves,</hi>
+               </l>
+               <l>We'l trust nor <hi>Hell</hi> nor <hi>Pope,</hi> but to our selves:</l>
+               <l>We plainl<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> see now, that they <hi>both</hi> were <hi>Fools,</hi>
+               </l>
+               <l>And may learn <hi>Wit</hi> and <hi>breeding</hi> in our <hi>Schools.</hi>
+               </l>
+               <l>We will not thus give hopeful <hi>England</hi> o're,</l>
+               <l>We will endevour still: hatch one <hi>Plot</hi> more,</l>
+               <l>And such a one as certainly shan't fail,</l>
+               <l>Joyn <hi>Fox's Head,</hi> to <hi>Lions Paw</hi> and <hi>Tail.</hi>
+               </l>
+               <l>We'l <hi>lap</hi> no more, from thence have sprung our harms,</l>
+               <l>Our next Attempt shall be by <hi>force</hi> of <hi>Arms.</hi>
+               </l>
+               <l>For little <hi>Godfreys</hi> wee'l no longer Angle,</l>
+               <l>But Cut the <hi>Heretick</hi> Throat we cannot strangle.</l>
+               <l>And quickly change the Catterwauling Notes,</l>
+               <l>Of <hi>Dugdale, Bedlow, Smith,</hi> and <hi>Praunce,</hi> &amp; <hi>Oats.</hi>
+               </l>
+               <l>The <hi>Bug▪ bear</hi>'s gon, that mighty Cat of Prey,</l>
+               <l>The little Mice will now begin to play,</l>
+               <l>Who are of very quick and eager Scent,</l>
+               <l>And now may nibble Cheese of <hi>Government.</hi>
+               </l>
+               <l>The greater <hi>Rats</hi> shall stand more in Awe,</l>
+               <l>Of nimble <hi>Cat,</hi> arm'd with a scratching Paw.</l>
+               <l>A stinking <hi>Blast,</hi> from filthy <hi>Bum</hi> has spread,</l>
+               <l>And thorow Nostrils fum'd into ev'ry Head,</l>
+               <l>So rank, so strong, and stinking now it grows,</l>
+               <l>Snuft up into every <hi>silly foolish Nose,</hi>
+               </l>
+               <l>Who snuffle with this <hi>Jesuettick</hi> Pose,</l>
+               <l>That now our <hi>Plots</hi> they never more can smell,</l>
+               <l>Should they of <hi>Powder</hi> stink, as ranck as <hi>Hell.</hi>
+               </l>
+               <l>Once more all Hands, let us now stoutly try,</l>
+               <l>To set up <hi>Mass,</hi> or bravely <hi>Martyrs</hi> dye:</l>
+               <l>For if we fail, they'l say 'twas bravely striven,</l>
+               <l>What should we fear, <hi>Tyburn</hi>'s the <hi>Gate</hi> to Heav'n.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
